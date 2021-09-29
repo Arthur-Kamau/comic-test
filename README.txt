@@ -1,1 +1,0 @@
-A simple php script that fetches characters and events from `https://developer.marvel.com/`
